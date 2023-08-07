@@ -1,4 +1,4 @@
-package com.example.java17.randomGenerator;
+package com.example.java17.randomGenerator.java;
 
 import java.util.random.RandomGeneratorFactory;
 import java.util.stream.IntStream;
